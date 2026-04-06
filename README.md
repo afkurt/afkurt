@@ -1,6 +1,4 @@
-# Hi👋
-
-Game Developer passionate about building games with Unity & C#.
+# Game Developer passionate about building games with Unity & C#.
 
 ## 🛠️ Technologies
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
