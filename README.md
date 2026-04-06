@@ -9,8 +9,8 @@ Game Developer passionate about building games with Unity & C#.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ## 🎮 Projects
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description |
+|---------|-------------|
 | [Stickman Survivor](https://github.com/afkurt/StickmanSurvivor) | Vampire Survivors-inspired mobile game 
 | [Fruit Merge](https://github.com/afkurt/FruitMerge) | Mobile merge-puzzle game with physics-based mechanics
 | [Inventory System](https://github.com/afkurt/Inventory-System) | Standalone inventory system
