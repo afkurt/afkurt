@@ -1,4 +1,3 @@
-# Game Developer passionate about building games.
 
 ## 🛠️ Technologies
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
